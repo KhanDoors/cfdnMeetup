@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom';
       <div>
         <nav className="green darken-3">
     <div className="nav-wrapper">
-      <a href="/" className="brand-logo">CFDN Meetups</a>
+      <a href="/" className="brand-logo center">CFDN Meetups</a>
       <a data-activates="main-menu" 
       className="button-collapse show-on-large">
       <i className="fa fa-bars"></i></a>
